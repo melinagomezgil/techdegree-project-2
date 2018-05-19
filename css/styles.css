@@ -11,8 +11,17 @@ body {
 	line-height: 1.25em;
 	color: #808080;
 	font-size: 0.875em;
+	text-align: center;
 }
 
+h1 {
+	text-align: left;
+}
+
+h2,
+h3 {
+	text-align: center;
+}
 
 h1,
 h2 {
@@ -28,7 +37,23 @@ h3 {
 	font-size: 0.875em;
 }
 
-/*Web Fonts--------------------*/
+/*Base Layout Styles--------------------*/
+
+.intro {
+	text-align: left;
+}
+
+.profile-photo {
+	float: right;
+}
+
+.main-nav {
+	display: inline;
+	float: right;
+}
+.container {
+	width: 100%;
+}
 
 
 
