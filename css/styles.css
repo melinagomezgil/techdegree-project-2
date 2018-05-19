@@ -1,0 +1,38 @@
+
+/*Base Styles------------------*/
+
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Monteserrat', sans-serif;
+	line-height: 1.25em;
+	color: #808080;
+	font-size: 0.875em;
+}
+
+
+h1,
+h2 {
+  	font-family: 'Fira Sans', sans-serif;
+  	color: #404040;
+  	font-size: 1em;
+}
+
+h3 {
+
+	font-family: 'Fira Sans', sans-serif;
+	color: #404040;
+	font-size: 0.875em;
+}
+
+/*Web Fonts--------------------*/
+
+
+
+/*Web Fonts--------------------*/
+
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
